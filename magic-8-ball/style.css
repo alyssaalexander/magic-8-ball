@@ -13,7 +13,7 @@ body {
 }
 .ball, .button {
   margin: 0 auto;
-  position:relative; 
+  position:relative;
   width:80%;
 }
 .answer {
@@ -24,7 +24,8 @@ body {
   margin-top:-60px;
   margin-left:-65px;
   font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
-  color: #222;
+  color: #ff5050;
+  font-weight: bold;
   text-transform: uppercase;
 }
 
